@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1 ,    
+        "tipo": "Arte",
+        "pregunta": "Quien pinto la ultima cena?",
+        "opcion1": "Leonardo da Vinci",
+        "opcion2": "Vincent van Gogh",
+        "opcion3": "Salvador Dali",
+        "opcion4": "Pablo Picasso"
+    },
+    {
+        "id": 2 ,    
+        "tipo":"Deportes",    
+        "pregunta": "Quien es el maximo goleador historico en mundiales de futbol?",
+        "opcion1": "Pele (Brasil)",
+        "opcion2": "Miroslav Klose (Alemania)",
+        "opcion3": "Ronaldo (Brasil)",
+        "opcion4": "Just Fontaine (Francia)"
+    },
+    {
+        "id": 3 ,    
+        "tipo": "Geografia",    
+        "pregunta": "Cual es la capital de Canada?",
+        "opcion1": "Toronto",
+        "opcion2": "Quebec",
+        "opcion3": "Victoria",
+        "opcion4": "Ottawa"
+    },
+    {
+        "id": 4 ,    
+        "tipo": "Entretenimiento",    
+        "pregunta": "Quien es el hermano de Mario en la saga de videojuegos Super Mario Bross?",
+        "opcion1": "Yoshi",
+        "opcion2": "Toad",
+        "opcion3": "Luiggi",
+        "opcion4": "Bowser"
+    }
+]
